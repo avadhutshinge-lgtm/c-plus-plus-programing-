@@ -9,6 +9,7 @@ int main()
     cin>>b;
     cout<<"Enter the third number(c)=";
     cin>>c;
+    //Here we use Logical and operator
     if(a==b&&b==c)
     {
         cout<<"all equal numbers type 'different' values";
